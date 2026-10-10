@@ -9,4 +9,6 @@
 
 `#same-complex-cases`에 2022년 이후 게시된 구의동 강변우성 동일 단지 시공 자료 12개를 최근순으로 정리했습니다. 각 카드에서 원문으로 이동하고, 게시 연도와 완공·공사 과정·고객 후기로 필터링할 수 있습니다. 게시일과 완공일, 원문의 평형 표기를 구분합니다. 자료와 확인 근거는 `same-complex-cases.json`에 기록했습니다.
 
-가족 구성은 엄마·아빠·딸 1명, 총 3명입니다. 메인 #must-haves에서 코너벽 라운딩과 기존 요청을 함께 확인할 수 있습니다. 전체 9개 페이지에 Pretendard를 적용했으며 폰트와 라이선스는 fonts/에 포함했습니다. 페이지 재생성 후 apply-family-design-brief.py를 마지막에 실행해 공통 정보를 반영합니다.
+가족 구성은 엄마·아빠·딸 1명, 총 3명입니다. 메인 #must-haves에서 코너벽 라운딩과 기존 요청을 함께 확인할 수 있습니다. 전체 9개 페이지에 LINE Seed KR를 적용했으며 폰트와 라이선스는 fonts/에 포함했습니다. 페이지 재생성 후 apply-family-design-brief.py를 마지막에 실행해 공통 정보를 반영합니다.
+
+LINE Seed KR: Copyright LY Corp. Official source: https://seed.line.me/index_kr.html
