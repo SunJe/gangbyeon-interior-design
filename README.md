@@ -12,3 +12,5 @@
 가족 구성은 엄마·아빠·딸 1명, 총 3명입니다. 메인 #must-haves에서 코너벽 라운딩과 기존 요청을 함께 확인할 수 있습니다. 전체 9개 페이지에 LINE Seed KR를 적용했으며 폰트와 라이선스는 fonts/에 포함했습니다. 페이지 재생성 후 apply-family-design-brief.py를 마지막에 실행해 공통 정보를 반영합니다.
 
 LINE Seed KR: Copyright LY Corp. Official source: https://seed.line.me/index_kr.html
+
+필수 요소: 벽면 모서리 라운드 처리, 주방 조리대·벽면 대형 세라믹. 현재 계획하지 않는 요소: 시스템에어컨, 아일랜드 주방.
